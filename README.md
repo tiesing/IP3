@@ -1,4 +1,4 @@
-# 
+# DELANI IP3 PROJECT
 #### Created by : [Tiesing Fam]
 ## description
 This is a knew project for a fictional site known as the Delani project as a way to practice and identify with programing
