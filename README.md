@@ -5,7 +5,7 @@ This is a knew project for a fictional site known as the Delani project as a way
 ## Features
 - The about section
 - Services sectionsport
-- Portfolio sectionsport
+- Portfolio section
 - Contacts
 - Submition forms
 
