@@ -1,7 +1,7 @@
 # DELANI IP3 PROJECT
 #### Created by : [Tiesing Fam]
 ## description
-This is a new project for a fictional site known as the Delani project as a way to practice and identify with programing
+This is a new project for a fictional site known as the Delani project, As a way to practice and identify with programing
 ## Features
 - The about section
 - Services section spot
