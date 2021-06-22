@@ -1,16 +1,16 @@
 # DELANI IP3 PROJECT
 #### Created by : [Tiesing Fam]
 ## description
-This is a knew project for a fictional site known as the Delani project as a way to practice and identify with programing
+This is a new project for a fictional site known as the Delani project as a way to practice and identify with programing
 ## Features
 - The about section
-- Services sectionsport
+- Services section spot
 - Portfolio section
 - Contacts
 - Submition forms
 
 ### known bugs 
-Currently there is no bug reported to raise a bug fix report [here](tiesingharmy97@gmail.com)
+Currently there is no bug reported.To raise a bug fix report [here](tiesingharmy97@gmail.com)
 
 ## setup process 
 to run the delani ip3 on your server you need a text editor like VSCODE or ATOM and an account on github or you can acces it through this link [tiesing](https://github.com/tiesing/IP3)  
